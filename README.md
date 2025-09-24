@@ -51,6 +51,13 @@ Desarrollar una red neuronal que prediga si una persona gana mas de $50,000 anua
 
 ## Hiperparametros
 
+- input size
+- hidden layers
+- hidden neurons
+- learning rate
+- batch size
+- num epochs
+
 ## 📈 Resultados
 
 ### 1. Exploracion de Analisis de Datos
