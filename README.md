@@ -17,7 +17,7 @@ Desarrollar una red neuronal que prediga si una persona gana mas de $50,000 anua
 
 ## Variables
 
-- Variables numericas: *age*, *fnlwgt*, *education-num*, *capital-gain*, *capital-loss*, *hours-per-week*
+- Variables numericas: *age*, *fnlwgt*, *education-num*, *capital-gain*, *capital-loss*, *hours-per-week*, *income*
 - Variables categoricas: *workclass*, *education*, *marital-status*, *occupation*, *relationship*, *race*, *sex*, *native-country*
 
 ## Librerias Principales
