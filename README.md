@@ -74,6 +74,17 @@ Desarrollar una red neuronal que prediga si una persona gana mas de $50,000 anua
 - *capital-loss*: cuenta con una media de 87
 - *hours-per-week*: con datos desde 0 hasta 90, tiene una media de 40.44 horas a la semana
 
+### 2. Metricas Train, Validacion, Test
+
+#### Clase 0 (menos o igual a 50k)
+
+Cuando el modelo predice que alguien va a ganar menos o igual de 50k suele acertar con buena precision, tiene buen balace y casi todos los casos reales cuando se ganan 500k o menos se predicen correctamente
+
+#### clase 1 (mas de 50k)
+
+Cuando el modelo predice que alguien va a ganar mas de 50k es confiable pero puede fallar, se pueden presentar casos de falsos positivos dado que deja escapar el 40% de las personas que realmente ganan mas de 50k, es decir, en comparacion a la clase 0 su rendimiento para detectar es menor
+
+
 ## 👥 Contribuidores
 
 - Equipo de desarrollo: Adrian Montenegro Zamora, Cesar Augusto 
