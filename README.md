@@ -51,6 +51,20 @@ Desarrollar una red neuronal que prediga si una persona gana mas de $50,000 anua
 
 ## 📈 Resultados
 
+### 1. Exploracion de Analisis de Datos
+
+- *age*: cuenta con edades aporx. entre 15 a 90 años, con una media de 38 años
+- *workclass*: prevalece el privado con mas de 20,000
+- *fnlwgt*: tiene una media aprox de 0.189
+- *education-num*: cuenta con datos desde 1 hasta 16, con una media de 10
+- *marital-status*: prevalecen las personas casadas sobre los otros estatus
+- *relationship*: la mayoria son hombres casados
+- *race*: prevalecen las personas blancas con una diferencia de aprox. 20,000 sobre el segundo (negras)
+- *sex*: hay el doble de hombres que mujeres
+- *capital-gain*: cuenta con una media de 1077
+- *capital-loss*: cuenta con una media de 87
+- *hours-per-week*: con datos desde 0 hasta 90, tiene una media de 40.44 horas a la semana
+
 ## 👥 Contribuidores
 
 - Equipo de desarrollo: Adrian Montenegro Zamora, Cesar Augusto 
