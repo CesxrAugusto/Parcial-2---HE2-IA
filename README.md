@@ -1,3 +1,7 @@
+Integrantes:
+1. Cesar Augusto Espinosa Gomez
+2. Adrian Montenegro Zamora
+
 # Parcial-2---HE2-IA
 *Universidad de los Andes - Facultad de Economia*
 
