@@ -96,6 +96,8 @@ Se evidencia que los modelos 1,2 y 3 presentan un alto overfitting siendo el mod
 
 Se evidencia que los cinco modelos son ahora ms estables en el entrenamiento, validacion y test. En donde, los cinco modelos tienen rendimientos similares pero destacando por encima de los demas el modelo 5. Por lo que con regularizacion, el modelo 5 sigue siendo el que tiene mejor rendimientos en comparacion a los otros. En general, el modelo 5 es que de mayor y mejor rendimiento
 
+
+
 ## 👥 Contribuidores
 
 - Equipo de desarrollo: Adrian Montenegro Zamora, Cesar Augusto 
