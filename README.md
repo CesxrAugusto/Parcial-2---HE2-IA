@@ -88,6 +88,13 @@ Cuando el modelo predice que alguien va a ganar menos o igual de 50k suele acert
 
 Cuando el modelo predice que alguien va a ganar mas de 50k es confiable pero puede fallar, se pueden presentar casos de falsos positivos dado que deja escapar el 40% de las personas que realmente ganan mas de 50k, es decir, en comparacion a la clase 0 su rendimiento para detectar es menor
 
+### 3. Metricas sin Regularizacion
+
+Se evidencia que los modelos 1,2 y 3 presentan un alto overfitting siendo el modelo 3 con el peor de los tres. Mientras que los modelos 4 y 5 son un poco mas estables pero el 5 con mejor balance y menor diferencia entre el entrenamiento y la validacion que el resto. Por lo que sin regularizacion, el modelo 5 es el de mejor rendimiento
+
+### 4. Metricas con regularizacion
+
+Se evidencia que los cinco modelos son ahora ms estables en el entrenamiento, validacion y test. En donde, los cinco modelos tienen rendimientos similares pero destacando por encima de los demas el modelo 5. Por lo que con regularizacion, el modelo 5 sigue siendo el que tiene mejor rendimientos en comparacion a los otros. En general, el modelo 5 es que de mayor y mejor rendimiento
 
 ## 👥 Contribuidores
 
